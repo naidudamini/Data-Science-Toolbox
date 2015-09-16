@@ -1,2 +1,2 @@
-# Data-Science-Toolbox
+# datasciencecoursera
 Part of coursera specialization
